@@ -109,3 +109,20 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+.carousel-filmes{
+    margin-top: 5px;
+}
+
+footer .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer .container .descricao a{
+    text-decoration: none;
+    color: var(--cinza);
+    margin-right: 10px;
+}
